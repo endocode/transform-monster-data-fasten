@@ -16,6 +16,6 @@ The file `monster-dataset-full.txt` is a version of the `monster-dataset-full-or
 For example: \
 Most of the time, the string containing the package version is: \
 `"version":"version number"` \
-But in some cases its:
-`"version": "version number"`
+But in some cases its: \
+`"version": "version number"` \
 Same goes for other key value pairs.
